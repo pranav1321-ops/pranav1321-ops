@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranav1321-ops
-- 👀 I’m interested in HTML projects and app develpoements
+- 👀 I’m interested in HTML projects and app developements
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on HTML projects
 - 📫 How to reach me Pranavbhardwaj385@gmail.com
