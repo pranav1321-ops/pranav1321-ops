@@ -7,7 +7,9 @@
 
 - 🌱 Currently Getting My Hands On **Web Development**
 
-- 👯 Ask Me About **Python** or **Android Development**
+- 👯 Ask Me About **Python**
+
+- 🚀 Learning **Java** Adventure
 
 - 📫 Reach Me On Instagram ***@pranav_bhardwaj1321***
 
