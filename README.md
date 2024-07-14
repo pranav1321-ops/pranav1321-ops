@@ -15,17 +15,18 @@
 
 - ⚡ Fun fact **Still Thinking What To Watch On Netflix**
 
-## 🚀 Languages and Tools:
+## Skills & Tools
 
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-<!--     <a href="https://react.dev/" target="_blank"> <img src= "https://www.svgrepo.com/show/303500/react-1-logo.svg"/> </a> -->
-    </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-vercel-3521717-2945015.png" alt="Vercel" width="50" height="50"/>
+</p>
 <br/>
 
 <p align="center">
