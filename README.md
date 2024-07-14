@@ -53,7 +53,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/mwlite/in/pranav-bhardwaj-baa616200"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rishvey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pranav_bhardwaj1321/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
