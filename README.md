@@ -24,7 +24,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-vercel-3521717-2945015.png" alt="Vercel" width="50" height="50"/>
+<!--   <img src="https://cdn.iconscout.com/icon/free/png-256/free-vercel-3521717-2945015.png" alt="Vercel" width="50" height="50"/> -->
 </p>
 <br/>
 
@@ -46,9 +46,9 @@
 
 ## Contact Me
 Please feel free to contact me on GitHub or through my email for any questions or collaboration opportunities.
+<br/>
 <p align="center">
-
 <a href = "https://www.linkedin.com/mwlite/in/pranav-bhardwaj-baa616200"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/pranav_bhardwaj1321/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
+<br/>
