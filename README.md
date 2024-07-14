@@ -23,7 +23,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="50" height="50"/>
-  <img src="[https://postimg.cc/f3VmGrKb](https://imgur.com/feOaOit)" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-vercel-3521717-2945015.png" alt="Vercel" width="50" height="50"/>
 </p>
 <br/>
