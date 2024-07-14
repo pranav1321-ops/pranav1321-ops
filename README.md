@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![image](https://github.com/user-attachments/assets/d4818ec9-076e-47de-bb2a-83cb79b564b4)<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello, Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
@@ -24,7 +24,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="50" height="50"/>
-  <img src="https://www.flaticon.com/free-icon/github_5968866?term=github&page=1&position=10&origin=search&related_id=5968866" alt="GitHub" width="50" height="50"/>
+  <img src="https://postimg.cc/f3VmGrKb" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-vercel-3521717-2945015.png" alt="Vercel" width="50" height="50"/>
 </p>
 <br/>
