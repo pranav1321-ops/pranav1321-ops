@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhardwaj</h1>
 <h3 align="center">Frontend web developer</h3>
 
-- 🔭 I’m currently working on [Admin Dashboard](https://github.com/pranav1321-ops/AdminSphere/tree/main/AdminSphere)
+- 🔭 I’m currently working on [Shellfie]
 
 - 🌱 I’m currently learning **Next.js**
 
